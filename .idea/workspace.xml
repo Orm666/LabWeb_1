@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5003ae5e-4605-404e-9c77-e21bec1f9f1d" name="Default Changelist" comment="" />
+    <list default="true" id="5003ae5e-4605-404e-9c77-e21bec1f9f1d" name="Default Changelist" comment="Lol" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,12 +41,24 @@
       <option name="presentableId" value="Default" />
       <updated>1603118925096</updated>
       <workItem from="1603118926558" duration="77000" />
-      <workItem from="1603119080213" duration="2005000" />
+      <workItem from="1603119080213" duration="2375000" />
     </task>
+    <task id="LOCAL-00001" summary="Lol">
+      <created>1603121347183</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603121347183</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lol" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lol" />
   </component>
   <component name="WindowStateProjectService">
     <state x="423" y="271" width="424" height="515" key="FileChooserDialogImpl" timestamp="1603120858316">
@@ -57,10 +69,18 @@
       <screen x="0" y="30" width="1280" height="994" />
     </state>
     <state x="516" y="427" width="248" height="203" key="Github.ShareDialog/0.30.1280.994@0.30.1280.994" timestamp="1603121084715" />
+    <state x="445" y="225" width="380" height="607" key="Github.UntrackedFilesDialog" timestamp="1603121092642">
+      <screen x="0" y="30" width="1280" height="994" />
+    </state>
+    <state x="445" y="225" width="380" height="607" key="Github.UntrackedFilesDialog/0.30.1280.994@0.30.1280.994" timestamp="1603121092642" />
     <state x="144" y="162" width="992" height="733" key="SettingsEditor" timestamp="1603120770041">
       <screen x="0" y="30" width="1280" height="994" />
     </state>
     <state x="144" y="162" width="992" height="733" key="SettingsEditor/0.30.1280.994@0.30.1280.994" timestamp="1603120770041" />
+    <state x="235" y="263" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1603121198342">
+      <screen x="0" y="30" width="1280" height="994" />
+    </state>
+    <state x="235" y="263" width="800" height="531" key="Vcs.Push.Dialog.v2/0.30.1280.994@0.30.1280.994" timestamp="1603121198342" />
     <state x="360" y="338" width="550" height="380" key="jetbrains.nodejs.interpreters-dialog" timestamp="1603118970442">
       <screen x="0" y="30" width="1280" height="994" />
     </state>
